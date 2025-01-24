@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10.sumOFTwoNumbersUserInp/10.sumOFTwoNumbersUserInp.iml" filepath="$PROJECT_DIR$/10.sumOFTwoNumbersUserInp/10.sumOFTwoNumbersUserInp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.Swaping/11.Swaping.iml" filepath="$PROJECT_DIR$/11.Swaping/11.Swaping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.SimpleCalculator/12.SimpleCalculator.iml" filepath="$PROJECT_DIR$/12.SimpleCalculator/12.SimpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.productOftwoFloatingNumbers/13.productOftwoFloatingNumbers.iml" filepath="$PROJECT_DIR$/13.productOftwoFloatingNumbers/13.productOftwoFloatingNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14.PerimeterOfRectangle/14.PerimeterOfRectangle.iml" filepath="$PROJECT_DIR$/14.PerimeterOfRectangle/14.PerimeterOfRectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.AreaOfTriangle/15.AreaOfTriangle.iml" filepath="$PROJECT_DIR$/15.AreaOfTriangle/15.AreaOfTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16.DrivingLicence/16.DrivingLicence.iml" filepath="$PROJECT_DIR$/16.DrivingLicence/16.DrivingLicence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16.FahrenheitToCelcius/16.FahrenheitToCelcius.iml" filepath="$PROJECT_DIR$/16.FahrenheitToCelcius/16.FahrenheitToCelcius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17.CheckingNumIspositiveve-veorzero/17.CheckingNumIspositiveve-veorzero.iml" filepath="$PROJECT_DIR$/17.CheckingNumIspositiveve-veorzero/17.CheckingNumIspositiveve-veorzero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18.ODDorEVEN/18.ODDorEVEN.iml" filepath="$PROJECT_DIR$/18.ODDorEVEN/18.ODDorEVEN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19.Determining the greater number/19.Determining the greater number.iml" filepath="$PROJECT_DIR$/19.Determining the greater number/19.Determining the greater number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.first/2.first.iml" filepath="$PROJECT_DIR$/2.first/2.first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20.swaping without third variable/20.swaping without third variable.iml" filepath="$PROJECT_DIR$/20.swaping without third variable/20.swaping without third variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21.Printing albhabet using loop/21.Printing albhabet using loop.iml" filepath="$PROJECT_DIR$/21.Printing albhabet using loop/21.Printing albhabet using loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22.MultiplicationTable/22.MultiplicationTable.iml" filepath="$PROJECT_DIR$/22.MultiplicationTable/22.MultiplicationTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23.SumOfOddNumToGivenNum/23.SumOfOddNumToGivenNum.iml" filepath="$PROJECT_DIR$/23.SumOfOddNumToGivenNum/23.SumOfOddNumToGivenNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24.Factorial using method/24.Factorial using method.iml" filepath="$PROJECT_DIR$/24.Factorial using method/24.Factorial using method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25.SumOfDigitsUsingMethod/25.SumOfDigitsUsingMethod.iml" filepath="$PROJECT_DIR$/25.SumOfDigitsUsingMethod/25.SumOfDigitsUsingMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26.LCM/26.LCM.iml" filepath="$PROJECT_DIR$/26.LCM/26.LCM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27.ReverseOfNum/27.ReverseOfNum.iml" filepath="$PROJECT_DIR$/27.ReverseOfNum/27.ReverseOfNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27.ReverseOfUserNumber/27.ReverseOfUserNumber.iml" filepath="$PROJECT_DIR$/27.ReverseOfUserNumber/27.ReverseOfUserNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.RightAngleTriangle/5.RightAngleTriangle.iml" filepath="$PROJECT_DIR$/5.RightAngleTriangle/5.RightAngleTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.RightSidePattern/6.RightSidePattern.iml" filepath="$PROJECT_DIR$/6.RightSidePattern/6.RightSidePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.LeftSidePattern/7.LeftSidePattern.iml" filepath="$PROJECT_DIR$/7.LeftSidePattern/7.LeftSidePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.Userinput/9.Userinput.iml" filepath="$PROJECT_DIR$/9.Userinput/9.Userinput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Programs.iml" filepath="$PROJECT_DIR$/Java Programs.iml" />
+    </modules>
+  </component>
+</project>

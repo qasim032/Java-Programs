@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2cf2e72-fc7e-47e7-a5f2-d70254451b9f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/13.productOftwoFloatingNumbers/13.productOftwoFloatingNumbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.PerimeterOfRectangle/14.PerimeterOfRectangle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.AreaOfTriangle/15.AreaOfTriangle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/16.DrivingLicence/16.DrivingLicence.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.CheckingNumIspositiveve-veorzero/17.CheckingNumIspositiveve-veorzero.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/18.ODDorEVEN/18.ODDorEVEN.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.Determining the greater number/19.Determining the greater number.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.swaping without third variable/20.swaping without third variable.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21.Printing albhabet using loop/21.Printing albhabet using loop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/22.MultiplicationTable/22.MultiplicationTable.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/23.SumOfOddNumToGivenNum/23.SumOfOddNumToGivenNum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25.SumOfDigitsUsingMethod/25.SumOfDigitsUsingMethod.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26.LCM/26.LCM.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/27.ReverseOfNum/27.ReverseOfNum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/27.ReverseOfUserNumber/27.ReverseOfUserNumber.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2s4exF0Nu9Cn3vknmWMQnJe7zT4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/2nd semester/java program/Java Programs"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2cf2e72-fc7e-47e7-a5f2-d70254451b9f" name="Changes" comment="" />
+      <created>1737719519114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737719519114</updated>
+    </task>
+    <servers />
+  </component>
+</project>
