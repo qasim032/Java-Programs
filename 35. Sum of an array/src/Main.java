@@ -1,3 +1,4 @@
+import myutils.Arrayutility;
 public class Main {
     public static void main(String[] args) {
         System.out.println("\nWelcome to sum of an array \n");

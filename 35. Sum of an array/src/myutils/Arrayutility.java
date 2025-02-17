@@ -1,3 +1,4 @@
+package myutils;
 import java.util.Scanner;
 
 public class Arrayutility {
